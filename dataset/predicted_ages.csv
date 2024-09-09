@@ -1,0 +1,2701 @@
+Predicted Age,data_test,report
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Male,Male,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
+Female,Female,"              precision    recall  f1-score   support
+
+      Female       0.79      0.82      0.80       140
+        Male       0.84      0.81      0.82       160
+
+    accuracy                           0.81       300
+   macro avg       0.81      0.81      0.81       300
+weighted avg       0.81      0.81      0.81       300
+"
